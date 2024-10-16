@@ -1,0 +1,22 @@
+Device Changes:
+- sm7325-common: use new locals for the RECEIVER_EXPORTED parameter
+- sm7325-common: automatically patch ims
+- sm7325-common: Fix more property selinux denialssm
+- 7325-common: Update GPS from LA.UM.9.14.r1-24900-LAHAINA.QSSI14.0
+- sm7325-common: Update blob fixup for dolby c2 with a wildcard
+- Merge tag 'MMI-T1RD33.116-33-12' of https://github.com/MotorolaMobilityLLC/kernel-msm into lineage-21
+- sm7325-common: Update blobs from dubai-user-14-U1RD34.80-40-f0ea3-release-keys
+
+- BERLIN -
+- berlin: berlin_global-user 13 T1RGS33.135-109-9-29 695e0-d4b251 release-keys
+- Fixed RCS
+- crDroid: 10.9
+- blissOS: 17.9
+- EvolutionX: 10.9 
+
+- DUBAI -
+- dubai: Fix a property selinux denial
+- dubai: Revert "dubai: Use WPSS firmware from android 12"
+- dubai: Disable HDR10 video recording on A14 MotCamera4
+- dubai: Update blobs from dubai-user-14-U1RD34.80-40-f0ea3-release-keys
+- blissOS 17.9
